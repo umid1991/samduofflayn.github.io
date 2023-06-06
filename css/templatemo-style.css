@@ -400,6 +400,7 @@ p, address {
 
 .tm-gallery-img {
   margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 .tm-gallery-title {
